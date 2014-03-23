@@ -1,7 +1,7 @@
 SimplyExtended
 ==============
 
-#### Defining an new object
+#### Define a new object
 These are all equivalent. 
 ```JS
 
@@ -18,7 +18,7 @@ var ObjectExtension = Object.extend({
 });
 ```
 
-#### Init methods
+#### Initiation methods
 Any method in the definition that starts with 'init' will be used to create constructors.
 
 #### Example definition
